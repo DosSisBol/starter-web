@@ -11,4 +11,4 @@ Adding a line for rebasing example, then more changes from my feature branch
 Sample website with plenty of files for demos
 
 
-2023 Copy notice. all rights reserved 122220234
+2023 Copy notice. all rights reserved 122220234 1 
